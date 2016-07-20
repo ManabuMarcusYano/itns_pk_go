@@ -7,6 +7,7 @@ import time
 import tweet as tw
 
 url = 'https://itunes.apple.com/search?term=pokemon+go&country=jp&media=software&entity=software&lang=ja_jp'
+
 def func():
     while True:
         try:
